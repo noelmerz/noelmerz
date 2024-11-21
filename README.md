@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://avatars.githubusercontent.com/u/188451752?s=400&u=8c3ab43110391f87717ccf0e771518a3cae155af&v=4" width="670">
 <!--
 **noelmerz/noelmerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
